@@ -15,6 +15,7 @@
 		4F4757E7253E764D00F90B00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F4757E5253E764D00F90B00 /* LaunchScreen.storyboard */; };
 		4F4757F2253E764D00F90B00 /* NestedLoopPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F4757F1253E764D00F90B00 /* NestedLoopPracticeTests.swift */; };
 		4F4757FD253E764D00F90B00 /* NestedLoopPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F4757FC253E764D00F90B00 /* NestedLoopPracticeUITests.swift */; };
+		4FCA984625415B1D00CC865D /* PatternViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCA984525415B1D00CC865D /* PatternViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4F4757F8253E764D00F90B00 /* NestedLoopPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NestedLoopPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F4757FC253E764D00F90B00 /* NestedLoopPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NestedLoopPracticeUITests.swift; sourceTree = "<group>"; };
 		4F4757FE253E764D00F90B00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FCA984525415B1D00CC865D /* PatternViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatternViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				4F4757DC253E764A00F90B00 /* SceneDelegate.swift */,
 				4F4757DE253E764A00F90B00 /* ViewController.swift */,
 				4F4757E0253E764A00F90B00 /* Main.storyboard */,
+				4FCA984525415B1D00CC865D /* PatternViewController.swift */,
 				4F4757E3253E764D00F90B00 /* Assets.xcassets */,
 				4F4757E5253E764D00F90B00 /* LaunchScreen.storyboard */,
 				4F4757E8253E764D00F90B00 /* Info.plist */,
@@ -261,6 +264,7 @@
 				4F4757DF253E764A00F90B00 /* ViewController.swift in Sources */,
 				4F4757DB253E764A00F90B00 /* AppDelegate.swift in Sources */,
 				4F4757DD253E764A00F90B00 /* SceneDelegate.swift in Sources */,
+				4FCA984625415B1D00CC865D /* PatternViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
